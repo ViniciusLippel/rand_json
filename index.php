@@ -141,11 +141,14 @@
                 echo "Primos: ".implode(", ", $primos)."<br><br>";
                 echo "Mediana: $mediana<br><br>";
             }
+            
+            echo "<h2>Gráfico</h2>";
         }
 
+        
     ?>
 
-    <h2>Gráfico</h2>
+    
     
     <script type="text/javascript">
         // Load the Visualization API and the corechart package.
